@@ -1,1 +1,1 @@
-web: gunicorn {{ tinyurl-hgq }}.wsgi
+web: gunicorn mysite.wsgi
