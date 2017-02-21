@@ -1,7 +1,3 @@
-# Tiny Url - Django/PostgreSQL
+# Skeleton of the Vagrant virtual development env
 
-This is a small web app which shortens any long url into a tiny url. 
-
-The app is currently deployed on [Heroku](https://tinyurl-hgq.herokuapp.com/).
-
-(WIP)
+For the actual application, please see [here](https://github.com/haoguanqing/Tinyurl).
